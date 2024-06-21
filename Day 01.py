@@ -4,6 +4,6 @@ nim = input("Masukkan NIM Anda: ")
 angkatan = input("Masukkan tahun angkatan Anda: ")
 
 # Print the introduction
-print("Nama saya", nama)
+print("Hallo! Nama saya", nama)
 print("NIM saya", nim)
 print("Saya angkatan", angkatan)
