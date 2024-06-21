@@ -1,1 +1,0 @@
-# A710230024_30dayscodepython
